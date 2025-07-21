@@ -18,7 +18,7 @@
 
 - 📋 **Gerenciador de Tarefas**
   Sistema simples e funcional de tarefas com interface gráfica, status, datas e categorias.
-  → [Repositório](https://github.com/1246464/Gerenciador-de-Tarefas)
+  → [Repositório](https://github.com/1246464/Gerenciador-de-tarefa)
 
 ---
 
