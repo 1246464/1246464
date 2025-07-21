@@ -10,11 +10,11 @@
 
 - 🎯 **Gerenciador de Projetos**
   Interface com tema escuro, cadastro de usuários, progresso automático de etapas e exportação em PDF.
-  → [Repositório](https://github.com/1246464/Gerenciador-de-Projetos)
+  → [Repositório](https://github.com/1246464/Gerenciador_de_Projetos)
 
 - 📊 **Análise de Vendas com Gráficos**
   Dashboard em PyQt5 com importação de CSV, gráficos integrados, filtros e exportação em PDF/Excel.
-  → [Repositório](https://github.com/1246464/Analise-de-Vendas)
+  → [Repositório](https://github.com/1246464/Analise-de-vendas)
 
 - 📋 **Gerenciador de Tarefas**
   Sistema simples e funcional de tarefas com interface gráfica, status, datas e categorias.
